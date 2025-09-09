@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @omartech104
-- 👀 I’m interested in cli apps/backend
-- 🌱 I’m currently learning C++ and Java
+- 👀 I’m interested in **Game Development**/**Backend Development**
+- 🌱 I’m currently learning **C++** and **Java**
