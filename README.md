@@ -1,4 +1,4 @@
 - 👋 Hi, I’m **Omar Mohammed (omartech104)**
 - 👀 I’m interested in **Game Development** And **Backend Development**
-- 🌱 I’m currently learning **C++** and **Java**
+- 🌱 I’m currently learning **C++**
 - And Also working on my game
