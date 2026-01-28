@@ -1,4 +1,4 @@
 - 👋 Hi, I’m **Omar Mohammed (omartech104)**
 - 👀 I’m interested in **Full Stack/Backend Development**
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **NestJS** And **ReactJS**
 - And Also working on my game
